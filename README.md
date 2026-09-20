@@ -1,2 +1,2 @@
 # Translations
-Skinhub
+This is for the script skinhub
