@@ -391,7 +391,7 @@
     "显示图片同意 反对的名字": "Shows the Names of Players Who Voted Yes/No",
     "显示玩家碰撞箱": "Shows player hitboxes",
     "显示自爆僵尸爆炸剩余时间": "Shows the Bomber's Remaining Explosion Time",
-    "显示自爆周围的检测范围圆环": "Shows a ring around bombers indicating detection range",
+    "显示自爆周围的检测范围圆环": "Shows the Bomber Detection Range",
     "显示自瞄 FOV 范围": "Shows the Bomber's Detection Range",
     "更改玩家肤色 面部表情": "Changes the Player's Skin Tone and Facial Expression",
     "枪械子弹打空后自动装填": "Automatically reloads once the gun's ammo is empty",
