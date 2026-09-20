@@ -15,11 +15,50 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Validate JSON files
+      - name: Get changed JSON files
+        id: changed
+        shell: bash
         run: |
-          find . -name "*.json" -not -path "./.git/*" -print0 |
-          while IFS= read -r -d '' file; do
-            echo "Validating $file..."
-            python -m json.tool "$file" > /dev/null || exit 1
-          done
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            git fetch origin "${{ github.event.pull_request.base.sha }}" --depth=1
+            FILES=$(git diff --name-only --diff-filter=ACMR \
+              "${{ github.event.pull_request.base.sha }}" \
+              "${{ github.event.pull_request.head.sha }}" -- '*.json')
+          else
+            FILES=$(git diff-tree --no-commit-id --name-only -r --diff-filter=ACMR \
+              "${{ github.sha }}" -- '*.json')
+          fi
+
+          echo "files<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$FILES" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Node
+        if: steps.changed.outputs.files != ''
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install jsonlint
+        if: steps.changed.outputs.files != ''
+        run: npm install -g jsonlint
+
+      - name: Validate changed JSON files
+        if: steps.changed.outputs.files != ''
+        shell: bash
+        run: |
+          status=0
+          while IFS= read -r file; do
+            [[ -z "$file" || ! -f "$file" ]] && continue
+
+            if ! jsonlint -q "$file" 2>/tmp/jsonlint-err.log; then
+              echo "::error file=$file::jsonlint flagged an issue - $(cat /tmp/jsonlint-err.log)"
+              status=1
+            else
+              echo "OK: $file"
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+          exit $status
