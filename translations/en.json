@@ -632,5 +632,19 @@
     "%)，重置": "%), counter reset",
     "静默自瞄需要 hookmetamethod": "Silent aim requires hookmetamethod",
     "[投票监听] 找不到 PlayerVote": "[Vote Listener] PlayerVote not found",
-    "[投票监听] 找不到 Voted": "[Vote Listener] Voted not found"
+    "[投票监听] 找不到 Voted": "[Vote Listener] Voted not found",
+    "AI路径微干扰": "AI Path Interference",
+    "打开自动杀死无头快捷栏": "Open Auto-Kill Headless Hotbar",
+    "获取吸血鬼刀": "Get Vampire Knife",
+    "获取铁桩": "Get Iron Stake",
+    "请选择语言": "Please Select Language",
+    "锁": "Lock",
+    " 级": " lvl",
+    " 倍": " x",
+    " 格": " studs",
+    " 个": " hits",
+    " 秒": " s",
+    " 速度": " speed",
+    " 高度": " studs",
+    " 单位": " studs"
 }
