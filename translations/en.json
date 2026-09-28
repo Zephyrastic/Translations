@@ -646,5 +646,6 @@
     " 秒": " s",
     " 速度": " speed",
     " 高度": " studs",
-    " 单位": " studs"
+    " 单位": " studs",
+    "切换侧边栏紧凑模式": "Toggle compact sidebar mode"
 }
