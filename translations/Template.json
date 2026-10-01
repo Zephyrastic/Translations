@@ -673,5 +673,7 @@
     "[SkinHub] 执行器: %s | 手机端: %s | Hook: %s | Drawing: %s | Connections: %s": "",
     "启用光标": "",
     "禁用僵尸动画": "",
-    "紧凑侧边栏 / Compact Sidebar": ""
+    "紧凑侧边栏 / Compact Sidebar": "",
+    "[无穿墙]": "",
+    "强制所有近战命中头部": ""
 }
