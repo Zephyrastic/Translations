@@ -647,5 +647,21 @@
     " 速度": " speed",
     " 高度": " studs",
     " 单位": " studs",
-    "切换侧边栏紧凑模式": "Toggle compact sidebar mode"
+    "切换侧边栏紧凑模式": "Toggle compact sidebar mode",
+    "飞": "Fly - No Camera Lock",
+    "[": "[No Wallhack]",
+    "穿": "Wallhack Mode: Off",
+    "穿墙模式: ": "Wallhack Mode: ",
+    "背": "Background Image Settings",
+    "选": "Select Background Image",
+    "强": "Force Headshots",
+    "脚": "Script User [",
+    "透": "ESP Script Users",
+    "执": "Executor: %s | Auto-adapted",
+    "启": "Enable Cursor",
+    "禁": "Disable Zombie Animations",
+    "紧": "Compact Sidebar",
+    "图1": "Image 1",
+    "图2": "Image 2",
+    "无背景": "No Background"
 }
