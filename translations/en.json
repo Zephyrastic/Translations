@@ -663,5 +663,15 @@
     "紧": "Compact Sidebar",
     "图1": "Image 1",
     "图2": "Image 2",
-    "无背景": "No Background"
+    "无背景": "No Background",
+    "穿墙模式: 关闭": "Wallhack Mode: Off",
+    "背景图设置": "Background Image Settings",
+    "选择背景图片": "Select Background Image",
+    "脚本用户[": "Script User [",
+    "透视同脚本用户": "ESP Script Users",
+    "执行器: %s | 已自动适配": "Executor: %s | Auto-adapted",
+    "[SkinHub] 执行器: %s | 手机端: %s | Hook: %s | Drawing: %s | Connections: %s": "[SkinHub] Executor: %s | Mobile: %s | Hook: %s | Drawing: %s | Connections: %s",
+    "启用光标": "Enable Cursor",
+    "禁用僵尸动画": "Disable Zombie Animations",
+    "紧凑侧边栏 / Compact Sidebar": "Compact Sidebar"
 }
