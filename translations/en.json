@@ -693,5 +693,13 @@
     "铲": "Shovel",
     "镐": "Pickaxe",
     "斧": "Hammer",
-    "锤": "Pickaxe2"
+    "锤": "Pickaxe2",
+    "瞬时交互提示": "Instant Prompts",
+    "移除所有交互提示的Hold等待时间": "Remove hold delay from all prompts",
+    "快速建造": "Fast Build",
+    "锤子建造/修复每次点击立即生效": "Hammer builds/repairs instantly on each click",
+    "瞬时提示:已关闭": "Instant Prompts: Off",
+    "瞬时提示:已启用": "Instant Prompts: On",
+    "快速建造:已关闭": "Fast Build: Off",
+    "快速建造:已启用": "Fast Build: On"
 }
