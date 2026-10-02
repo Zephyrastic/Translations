@@ -676,5 +676,8 @@
     "禁用僵尸动画": "Disable Zombie Animations",
     "紧凑侧边栏 / Compact Sidebar": "Compact Sidebar",
     "[无穿墙]": "[No Wallhack]",
-    "强制所有近战命中头部": "Force all melee hits to the head"
+    "强制所有近战命中头部": "Force all melee hits to the head",
+    "启用高速移动": "Enable WalkSpeed",
+    "通过移动速度实现": "Moves via WalkSpeed",
+    "高速移动速度": "WalkSpeed Value"
 }
