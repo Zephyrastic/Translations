@@ -695,11 +695,11 @@
     "斧": "Hammer",
     "锤": "Pickaxe2",
     "瞬时交互提示": "Instant Prompts",
-    "移除所有交互提示的Hold等待时间": "Remove hold delay from all prompts",
-    "快速建造": "Fast Build",
-    "锤子建造/修复每次点击立即生效": "Hammer builds/repairs instantly on each click",
-    "瞬时提示:已关闭": "Instant Prompts: Off",
-    "瞬时提示:已启用": "Instant Prompts: On",
-    "快速建造:已关闭": "Fast Build: Off",
-    "快速建造:已启用": "Fast Build: On"
+    "移除所有交互提示的Hold等待时间": "Remove hold delay from all proximity prompts",
+    "快速建造": "Hammer No CD",
+    "锤子建造/修复每次点击立即生效": "Makes your hammer faster",
+    "瞬时提示:已关闭": "Instant Proximity Prompts: Off",
+    "瞬时提示:已启用": "Instant Proximity Prompts: On",
+    "快速建造:已关闭": "Hammer No CD: Off",
+    "快速建造:已启用": "Hammer No CD: On"
 }
