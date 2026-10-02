@@ -679,5 +679,12 @@
     "强制所有近战命中头部": "Force all melee hits to the head",
     "启用高速移动": "Enable WalkSpeed",
     "通过移动速度实现": "Moves via WalkSpeed",
-    "高速移动速度": "WalkSpeed Value"
+    "高速移动速度": "WalkSpeed Value",
+    "瞬犲自救": "Scopeman's Self-Rescue",
+    "爆筒自救": "Bombie Self-Rescue",
+    "已自动适配": "Auto-adapted",
+    "所有近战": "Force all nearby headshots",
+    "裈好": "Nice",
+    "一键杀死无头": "One-Click Kill Headless",
+    "一键杀死无头快捷栏": "One-Click Kill Headless Hotbar"
 }
