@@ -701,5 +701,11 @@
     "瞬时提示:已关闭": "Instant Proximity Prompts: Off",
     "瞬时提示:已启用": "Instant Proximity Prompts: On",
     "快速建造:已关闭": "Hammer No CD: Off",
-    "快速建造:已启用": "Hammer No CD: On"
+    "快速建造:已启用": "Hammer No CD: On",
+    "瞬时提示：已关闭": "Instant Proximity Prompts: Off",
+    "瞬时提示：已启用": "Instant Proximity Prompts: On",
+    "快速建造：已关闭": "Hammer No CD: Off",
+    "快速建造：已启用": "Hammer No CD: On",
+    "强制装备": "Force Equip",
+    "阻止强制卸下武器（骑乘时除外）": "Blocks forced unequips (except while mounted)"
 }
