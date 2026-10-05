@@ -61,7 +61,6 @@
     "请先开启飞行。": "Enable Fly first.",
     "PVP 功能": "PvP Features",
     "工兵": "Sapper",
-    "军官 线列 水手": "Officer, Line Infantry & Sailor",
     "自动挖雪": "Auto Dig Snow",
     "自动收集": "Auto Collect",
     "自动砸砖墙": "Auto Break Brick Walls",
@@ -144,7 +143,6 @@
     "打开隐身快捷栏": "Open Invisible Hotbar",
     "拉大炮2": "Pull Cannon 2",
     "自动换弹": "Auto Reload",
-    "换弹完成后自动重新装备武器": "Re-equip Weapon After Reload",
     "防封": "AntiBan",
     "自动跳刀": "Auto Jump Melee",
     "自动冲锋": "Auto Charge",
@@ -478,8 +476,6 @@
     "自动抢旗杆已完成": "Auto Get Flagpole complete",
     "自动换弹已开启": "Auto Reload enabled",
     "自动换弹已关闭": "Auto Reload disabled",
-    "自动收枪已开启": "Auto Store Weapon enabled",
-    "自动收枪已关闭": "Auto Store Weapon disabled",
     "自动跳刀已开启": "Auto Bayonet Jump enabled",
     "自动跳刀已关闭": "Auto Bayonet Jump disabled",
     "自动冲锋已开启": "Auto Charge enabled",
@@ -711,5 +707,8 @@
     "红眼walls检测": "Runner wall detection",
     "automatically 射击斧头": "Automatically shoot zappers",
     "斧头射击距离": "Zapper shoot distance",
-    "斧头walls检测": "Zapper wall detection"
+    "斧头walls检测": "Zapper wall detection",
+    "枪械": "Guns",
+    "换弹": "Reload",
+    "黑枪": "Black Gun"
 }
