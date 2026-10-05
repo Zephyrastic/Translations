@@ -698,5 +698,18 @@
     "瞬时提示:已关闭": "Instant Proximity Prompts: Off",
     "瞬时提示:已启用": "Instant Proximity Prompts: On",
     "瞬时提示：已关闭": "Instant Proximity Prompts: Off",
-    "瞬时提示：已启用": "Instant Proximity Prompts: On"
+    "瞬时提示：已启用": "Instant Proximity Prompts: On",
+    "南瓜刀美化": "Client Le revenant",
+    "automatically 射击bombers": "Automatically shoot bombers",
+    "bombers射击距离": "Bomber shoot distance",
+    "bomberswalls检测": "Bomber wall detection",
+    "automatically 射击甲骑兵": "Automatically shoot cuirassiers",
+    "甲骑兵射击距离": "Cuirassier shoot distance",
+    "甲骑兵walls检测": "Cuirassier wall detection",
+    "automatically 射击红眼": "Automatically shoot runners",
+    "红眼射击距离": "Runner shoot distance",
+    "红眼walls检测": "Runner wall detection",
+    "automatically 射击斧头": "Automatically shoot zappers",
+    "斧头射击距离": "Zapper shoot distance",
+    "斧头walls检测": "Zapper wall detection"
 }
