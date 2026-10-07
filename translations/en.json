@@ -319,7 +319,7 @@
     "师傅：小皮": "Master: Xiao Pi",
     "英文翻译：Zephy": "English Translation: Zephy",
     "脚本优化：Zephy": "Script Optimization: Zephy",
-    "WASD移动，Space/E上升，LCtrl/Q下降，跳跃短暂上升。": "WASD to move, Space/E to rise, LCtrl/Q to descend, jump for a short boost.",
+    "WASD移动，Space上升，LCtrl下降。": "WASD to move, Space to rise, LCtrl to descend.",
     "为僵尸添加更大的命中箱": "Adds a larger hitbox to zombies",
     "体验虐杀的快感": "Experience the thrill of the slaughter",
     "军刀前刺动画时自动跳跃": "Automatically jumps during melee thrusting",
