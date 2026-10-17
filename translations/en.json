@@ -684,5 +684,14 @@
     "自动射击红眼": "Auto Shoot Runner",
     "红眼墙体检测": "Runner Wall Check",
     "自动射击斧头": "Auto Shoot Zapper",
-    "斧头墙体检测": "Zapper Wall Check"
+    "斧头墙体检测": "Zapper Wall Check",
+    "目标优先级": "Target Priority",
+    "血量最低": "Lowest Health",
+    "最近": "Nearest",
+    "最远": "Farthest",
+    "正在换弹中": "Reloading...",
+    "已换弹完成": "Reload Complete",
+    "显示子弹轨迹": "Show Bullet Trajectory",
+    "物品透视": "Item ESP",
+    "手雷透视": "Grenade ESP"
 }
