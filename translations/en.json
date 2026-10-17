@@ -693,5 +693,10 @@
     "已换弹完成": "Reload Complete",
     "显示子弹轨迹": "Show Bullet Trajectory",
     "物品透视": "Item ESP",
-    "手雷透视": "Grenade ESP"
+    "手雷透视": "Grenade ESP",
+    "赞助": "Sponsor",
+    "感谢支持": "Thank you for your support",
+    "银器": "Silver",
+    "银器透视": "Silver ESP",
+    "显示地图中的银器": "Show silver on the map"
 }
