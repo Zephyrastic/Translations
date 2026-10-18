@@ -698,5 +698,21 @@
     "感谢支持": "Thank you for your support",
     "银器": "Silver",
     "银器透视": "Silver ESP",
-    "显示地图中的银器": "Show silver on the map"
+    "显示地图中的银器": "Show silver on the map",
+    "禁用部分火焰粒子": "Disable Fire Particles",
+    "目标帧率": "Target FPS",
+    "输入的是gay": "the input is gay",
+    "强制锁帧": "Force FPS Lock",
+    "地图自动": "Map Automation",
+    "检查修理": "Checking Repair",
+    "获取木材": "Get Wood",
+    "放置木材": "Place Wood",
+    "自动修桥［半自动］": "Auto Repair Bridge [Semi-Auto]",
+    "自动拿木头": "Auto Pick Up Wood",
+    "自动放置木头": "Auto Place Wood",
+    "自动修桥": "Auto Repair Bridge",
+    "自动黑枪": "Auto Black Gun",
+    "检测半径": "Detection Radius",
+    "半径可视化": "Show Radius",
+    "持枪射击": "Require Equipped Gun"
 }
