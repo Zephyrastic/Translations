@@ -718,5 +718,7 @@
     "狙击手预警": "Sharpshooter Warning",
     "狙击手瞄准中": "Sharpshooter aiming",
     "狙击手瞄准你": "Sharpshooter aiming at you",
-    "狙击手瞄准目标": "Sharpshooter aiming at"
+    "狙击手瞄准目标": "Sharpshooter aiming at",
+    "爆头概率": "Head Hit Probability",
+    "每次近战攻击强制爆头的概率": "Chance to force a head hit on each melee attack"
 }
