@@ -714,5 +714,8 @@
     "自动黑枪": "Auto Black Gun",
     "检测半径": "Detection Radius",
     "半径可视化": "Show Radius",
-    "持枪射击": "Require Equipped Gun"
+    "持枪射击": "Require Equipped Gun",
+    "狙击手预警": "Sharpshooter Warning",
+    "狙击手瞄准中": "Sharpshooter aiming",
+    "狙击手开火倒计时": "Sharpshooter fires in"
 }
