@@ -720,5 +720,15 @@
     "狙击手瞄准你": "Sharpshooter aiming at you",
     "狙击手瞄准目标": "Sharpshooter aiming at",
     "爆头概率": "Head Hit Probability",
-    "每次近战攻击强制爆头的概率": "Chance to force a head hit on each melee attack"
+    "每次近战攻击强制爆头的概率": "Chance to force a head hit on each melee attack",
+    "解帧": "Uncap FPS",
+    "优化帧率": "Optimize FPS",
+    "优化强度": "Optimization Strength",
+    "平衡": "Balanced",
+    "强力": "Strong",
+    "极限": "Extreme",
+    "阴影裁剪距离": "Shadow Cull Distance",
+    "粒子裁剪距离": "Particle Cull Distance",
+    "立即恢复原状": "Restore Everything",
+    "已检测到重复执行, 旧实例已清理": "Duplicate execution detected, old instance cleaned up"
 }
