@@ -730,5 +730,6 @@
     "阴影裁剪距离": "Shadow Cull Distance",
     "粒子裁剪距离": "Particle Cull Distance",
     "立即恢复原状": "Restore Everything",
-    "已检测到重复执行, 旧实例已清理": "Duplicate execution detected, old instance cleaned up"
+    "已检测到重复执行, 旧实例已清理": "Duplicate execution detected, old instance cleaned up",
+    "手雷": "Grenade"
 }
