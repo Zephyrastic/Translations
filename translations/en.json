@@ -253,7 +253,7 @@
     "肘击自救": "Shove Self Rescue",
     "自爆拉扯（防护）": "Avoid Bombers",
     "拉扯范围": "Pull Range",
-    "获取吸血鬼刀 (Voivode)": "Get Vampire Knife (Voivode)",
+    "获取吸血鬼刀 (Voivode)": "Get Voivode",
     "获取铁桩 (Iron Stake)": "Get Iron Stake",
     "我好像有点卡顿": "Lag",
     "卡顿程度": "Lag Amount",
@@ -480,8 +480,8 @@
     "自动拾取纱布已关闭": "Auto Pickup Bandage disabled",
     "自动祝福已开启": "Auto Bless enabled",
     "自动祝福已关闭": "Auto Bless disabled",
-    "已获取吸血鬼刀": "Vampire Knife acquired",
-    "已获取铁桩": "Iron Stake acquired",
+    "已获取吸血鬼刀": "Voivode Purchased",
+    "已获取铁桩": "Iron Stake Purchased",
     "🆘 传送救援已开启": "🆘 Teleport Rescue enabled",
     "🆘 传送救援已关闭": "🆘 Teleport Rescue disabled",
     "投票显示已开启": "Vote Display enabled",
@@ -618,7 +618,7 @@
     "[投票监听] 找不到 Voted": "[Vote Listener] Voted not found",
     "AI路径微干扰": "AI Path Interference",
     "打开自动杀死无头快捷栏": "Open Auto-Kill Headless Hotbar",
-    "获取吸血鬼刀": "Get Vampire Knife",
+    "获取吸血鬼刀": "Get Voivode Knife",
     "获取铁桩": "Get Iron Stake",
     "请选择语言": "Please Select Language",
     "锁": "Lock",
@@ -848,5 +848,5 @@
     "罗布罗克希亚镇": "Town of Robloxia",
     "Logo链接": "Logo URL",
     "德国": "Germany",
-    "作者版：仅对前方15米最近5只生效": "Author's version: only affects the 5 nearest zombies within 15m ahead"
+    "作者版：仅对前方15米最近5只生效": "Expands zombie hitbox."
 }
