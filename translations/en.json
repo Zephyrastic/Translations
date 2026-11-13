@@ -1032,5 +1032,7 @@
     "快速爬梯": "Fast Ladder Climb",
     "爬梯倍率": "Ladder Speed Multiplier",
     "奔跑者": "Runner",
-    "电击僵尸": "Zapper"
+    "电击僵尸": "Zapper",
+    "透视奔跑者": "Runner ESP",
+    "透视电击僵尸": "Zapper ESP"
 }
