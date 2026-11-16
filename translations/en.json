@@ -1034,5 +1034,8 @@
     "奔跑者": "Runner",
     "电击僵尸": "Zapper",
     "透视奔跑者": "Runner ESP",
-    "透视电击僵尸": "Zapper ESP"
+    "透视电击僵尸": "Zapper ESP",
+    "瞄准端": "Aim Point",
+    "手机": "Mobile",
+    "显示手炮轨迹": "Show Hand Mortar Tracers"
 }
